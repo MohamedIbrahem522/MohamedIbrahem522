@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MohamedIbrahem522/MohamedIbrahem522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mohamed Ibrahim  
+Full-Stack Developer (React & Node.js)  
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+Full-Stack Developer with hands-on experience in building **modern web applications** using **React.js** on the frontend and **Node.js / Express.js** on the backend.  
+I focus on writing **clean**, **maintainable code** and building **scalable solutions** through real projects.
+
+---
+
+### 🧠 Tech Stack
+**Frontend**
+- HTML • CSS • JavaScript  
+- React.js  
+- Responsive Design  
+
+**Backend**
+- Node.js • Express.js  
+- REST APIs  
+- Authentication (JWT)  
+
+**Database & Tools**
+- MongoDB  
+- Git • GitHub  
+
+---
+
+### 📁 Projects
+🔗 GitHub Profile  
+👉 https://github.com/MohamedIbrahem522  
+
+*(Selected projects are pinned on my profile)*
+
+---
+
+### 📫 Contact
+📧 **Email:** moibrahem522@gmail.com  
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/mohamed-ibrahem-63446322a  
+
+---
+
+<div align="center">
+
+✨ Open to Junior Full-Stack / Frontend opportunities ✨
+
+</div>
