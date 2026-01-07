@@ -1,7 +1,7 @@
 <div align="center">
 
 # Mohamed Ibrahim  
-Full-Stack Developer (React & Node.js)  
+## Full-Stack Developer (React & Node.js)  
 
 </div>
 
