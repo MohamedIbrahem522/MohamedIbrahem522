@@ -48,25 +48,28 @@
 
 <div align="center">
 
-### 🕹️ Git Activity Snake
-<img src="https://github-raw-mirror.vercel.app/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+### ⚡ Quick Bytes
+![](https://img.shields.io/badge/Main_Stack-MERN-blue?style=flat-square) 
+![](https://img.shields.io/badge/Focus-Scalability-green?style=flat-square)
+![](https://img.shields.io/badge/Status-Open_to_Projects-orange?style=flat-square)
 
 <br />
 
-### 🔗 Let's Connect
-<p align="center">
+### 🔗 Let's Connect & Build Something Great
 <a href="https://www.linkedin.com/in/mohamed-ibrahem-63446322a">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" height="25" />
-</a> 
-<a href="mailto:moibrahem522@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" height="25" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
 </a>
-</p>
+&nbsp;&nbsp;
+<a href="mailto:moibrahem522@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+</a>
+
+<br />
+<br />
+
+![Views](https://komarev.com/ghpvc/?username=MohamedIbrahem522&label=PROFILE%20VIEWS&color=007acc&style=flat)
+
+<br />
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px" />
-
-<br />
-
-![Views](https://komarev.com/ghpvc/?username=MohamedIbrahem522&label=VISITORS&color=007acc&style=plastic)
-
 </div>
