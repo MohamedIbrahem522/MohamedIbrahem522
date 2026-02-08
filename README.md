@@ -20,24 +20,41 @@
 
 ---
 
-### 📊 Engineering Stats
+### 🕹️ Git Activity Soul
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedIbrahem522&show_icons=true&theme=distinguished&hide_border=true&icon_color=000&title_color=000" width="400" />
+  <img src="https://raw.githubusercontent.com/MohamedIbrahem522/MohamedIbrahem522/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
+---
+
+### 🛠️ Hardware & Tools Room
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedIbrahem522&theme=distinguished&hide_border=true&stroke=000&ring=000&fire=000" width="750" />
+  <img src="https://skillicons.dev/icons?i=postman,docker,linux,figma,vscode,github" />
+</p>
+
+---
+
+### 🚀 Technical Velocity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedIbrahem522&layout=compact&theme=vision-friendly-dark&hide_border=true&no-bg=true" width="400" />
 </p>
 
 ---
 
 <div align="center">
 
-### 📫 Stay in touch
-[LinkedIn](https://www.linkedin.com/in/mohamed-ibrahem-63446322a) • [Email](mailto:moibrahem522@gmail.com)
+### 🤝 Let's build the future together
+<a href="https://www.linkedin.com/in/mohamed-ibrahem-63446322a">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+&nbsp;
+<a href="mailto:moibrahem522@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-black?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+<br />
+<br />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
 
 </div>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=MohamedIbrahem522&label=INDEX&color=000&style=flat-square" />
-</p>
