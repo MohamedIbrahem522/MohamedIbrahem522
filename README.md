@@ -1,62 +1,46 @@
 <div align="center">
 
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/male-developer-working-on-laptop-illustration-download-in-svg-png-gif-file-formats--person-logo-development-pack-business-illustrations-4790938.png" width="250" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="80" />
 
 # <samp>MOHAMED IBRAHEM</samp>
-### `Full-Stack Engineer | [cite_start]Node.js Instructor @GDSC` [cite: 58, 115]
+### `Full-Stack Software Engineer`
 
 ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,mongodb,docker,ts&theme=light" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,mongodb,ts,docker,tailwind" />
 
 ---
 
 </div>
 
-### 🖋️ Professional Brief
-- [cite_start]🚀 **Full-Stack Developer** with a Computer Science background[cite: 60].
-- [cite_start]🤖 Developed an **AI Object Detection** app (YOLOv8) with an **A+** grade[cite: 80, 83, 84].
-- [cite_start]🏫 Former **Node.js Instructor** & Core Team Member at **GDSC**[cite: 115, 116].
+### 🖋️ About Me
+* [cite_start]🚀 **Full-Stack Developer** specialized in **React.js** and **Node.js**.
+* [cite_start]👨‍🏫 **Node.js Instructor** & Core Team Member at **GDSC** Damanhour.
+* [cite_start]🤖 **AI Specialist:** Developed a real-time Object Detection app (**YOLOv8**) with an **A+** grade[cite: 80, 83, 84].
+* [cite_start]🎓 **Computer Science** Graduate (Class of 2024)[cite: 95, 97].
+
+### 🛠️ Technical Stack
+* [cite_start]**Frontend:** `Next.js` • `React.js` • `Tailwind CSS` • `JavaScript`[cite: 65, 87].
+* [cite_start]**Backend:** `Node.js` • `Express.js` • `NestJS` • `FastAPI`[cite: 66, 83, 107].
+* [cite_start]**Databases:** `MongoDB` • `PostgreSQL` • `MySQL`[cite: 66, 92, 98].
 
 ---
 
-### 🧩 Core Infrastructure
-- **Frontend** &nbsp;&nbsp; [cite_start]`React` • `Next.js` • `Tailwind CSS` • `JavaScript` [cite: 65, 87]
-- **Backend** &nbsp;&nbsp;&nbsp; [cite_start]`Node.js` • `Express.js` • `NestJS` • `FastAPI` [cite: 66, 83]
-- **AI & DB** &nbsp;&nbsp;&nbsp;&nbsp; [cite_start]`YOLOv8` • `MongoDB` • `PostgreSQL` • `MySQL` [cite: 66, 67, 83]
-
----
-
-### 🕹️ Git Activity Soul
+### 📊 Engineering Stats
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohamedIbrahem522/MohamedIbrahem522/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
-
-### 🚀 Technical Velocity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedIbrahem522&layout=compact&theme=vision-friendly-dark&hide_border=true&no-bg=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedIbrahem522&show_icons=true&theme=transparent&hide_border=true&title_color=007acc" width="400" />
 </p>
 
 ---
 
 <div align="center">
 
-### 🤝 Let's build the future together
+### 🤝 Connect with me
 <a href="https://www.linkedin.com/in/mohamed-ibrahem-63446322a">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
 <a href="mailto:moibrahem522@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-black?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-
-<br />
-<br />
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
 
 </div>
