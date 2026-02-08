@@ -1,66 +1,62 @@
 <div align="center">
-  
-# 🚀 Mohamed Ibrahem
-### <samp>Full-Stack Developer | Node.js Instructor @GDSC</samp>
 
-<img src="https://komarev.com/ghpvc/?username=MohamedIbrahem522&label=Profile%20Views&color=blue&style=flat-square" />
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/male-developer-working-on-laptop-illustration-download-in-svg-png-gif-file-formats--person-logo-development-pack-business-illustrations-4790938.png" width="250" />
+
+# <samp>MOHAMED IBRAHEM</samp>
+### `Full-Stack Engineer | [cite_start]Node.js Instructor @GDSC` [cite: 58, 115]
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,mongodb,docker,ts&theme=light" />
+</p>
+
+---
 
 </div>
 
----
-
-### 🖋️ Executive Summary
-[cite_start]Full Stack Developer and **Computer Science** graduate[cite: 35]. [cite_start]Specialized in building scalable web applications and **AI-driven solutions**[cite: 4, 62]. [cite_start]Experienced in mentoring developers as a **Node.js Instructor** at GDSC Damanhour University.
-
----
-
-### 🌟 Key Highlights
-- [cite_start]🎓 **Graduation Project:** Real-time Object Detection using **YOLOv8** (Grade: **A+**)[cite: 80, 83, 84].
-- [cite_start]🏫 **Mentorship:** Delivered Node.js workshops and introduced REST API concepts to students[cite: 116, 117].
-- [cite_start]🏆 **Education:** Bachelor of Computer Science from **HTI** (2020 - 2024)[cite: 95, 97].
+### 🖋️ Professional Brief
+- [cite_start]🚀 **Full-Stack Developer** with a Computer Science background[cite: 60].
+- [cite_start]🤖 Developed an **AI Object Detection** app (YOLOv8) with an **A+** grade[cite: 80, 83, 84].
+- [cite_start]🏫 Former **Node.js Instructor** & Core Team Member at **GDSC**[cite: 115, 116].
 
 ---
 
-### 💻 Technical Arsenal
-
-| Category | Skills |
-| :--- | :--- |
-| **Frontend** | [cite_start]`React.js` • `Next.js` • `Tailwind CSS` • `JavaScript` • `Bootstrap` [cite: 65, 87] |
-| **Backend** | [cite_start]`Node.js` • `Express.js` • `FastAPI` • `RESTful APIs` [cite: 66, 83, 85] |
-| **Databases** | [cite_start]`MongoDB` • `PostgreSQL` • `MySQL` [cite: 66, 92] |
-| **AI & ML** | [cite_start]`Deep Learning` • `YOLOv8` • `Python` [cite: 62, 67] |
+### 🧩 Core Infrastructure
+- **Frontend** &nbsp;&nbsp; [cite_start]`React` • `Next.js` • `Tailwind CSS` • `JavaScript` [cite: 65, 87]
+- **Backend** &nbsp;&nbsp;&nbsp; [cite_start]`Node.js` • `Express.js` • `NestJS` • `FastAPI` [cite: 66, 83]
+- **AI & DB** &nbsp;&nbsp;&nbsp;&nbsp; [cite_start]`YOLOv8` • `MongoDB` • `PostgreSQL` • `MySQL` [cite: 66, 67, 83]
 
 ---
 
-### 📂 Featured Ecosystems
-- [cite_start]🛒 **E-Commerce Platform:** Full-featured system with secure Auth & Payments[cite: 90, 93].
-- [cite_start]🎬 **MO Movie:** Modern Next.js app with real-time data integration[cite: 86, 87].
-- [cite_start]📚 **Book Store:** Online store with advanced UI and purchasing flow[cite: 76, 79].
-
----
-
-### 🕹️ Activity Soul & Performance
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedIbrahem522&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedIbrahem522&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7" width="300" />
-</p>
-
+### 🕹️ Git Activity Soul
 <p align="center">
   <img src="https://raw.githubusercontent.com/MohamedIbrahem522/MohamedIbrahem522/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 🚀 Technical Velocity
 <p align="center">
-<a href="https://www.linkedin.com/in/mohamed-ibrahem-63446322a" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:moibrahem522@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedIbrahem522&layout=compact&theme=vision-friendly-dark&hide_border=true&no-bg=true" width="400" />
 </p>
 
+---
+
 <div align="center">
-  <sub><i>"Engineering software with a focus on quality and innovation."</i></sub>
+
+### 🤝 Let's build the future together
+<a href="https://www.linkedin.com/in/mohamed-ibrahem-63446322a">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+&nbsp;
+<a href="mailto:moibrahem522@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-black?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+<br />
+<br />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+
 </div>
