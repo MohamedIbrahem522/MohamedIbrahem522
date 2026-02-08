@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="100" />
 
 # <samp>MOHAMED IBRAHEM</samp>
-### `Full-Stack Software Engineer | Node.js . React 👨‍🏫 `
+### `MERN Stack Developer | Node.js . React 👨‍🏫 `
 
 ---
 
@@ -53,9 +53,33 @@
   </a>
 </p>
 
+---
+
 <div align="center">
-  <br />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
-  <br />
-  <sub><i>Engineering with purpose • Mohamed Ibrahem</i></sub>
+
+### ⚡ Quick Bytes
+![](https://img.shields.io/badge/Main_Stack-MERN-blue?style=flat-square) 
+![](https://img.shields.io/badge/Focus-Scalability-green?style=flat-square)
+![](https://img.shields.io/badge/Status-Open_to_Projects-orange?style=flat-square)
+
+<br />
+
+### 🔗 Let's Connect & Build Something Great
+<a href="https://www.linkedin.com/in/mohamed-ibrahem-63446322a">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:moibrahem522@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+</a>
+
+<br />
+<br />
+
+![Views](https://komarev.com/ghpvc/?username=MohamedIbrahem522&label=PROFILE%20VIEWS&color=007acc&style=flat)
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=60&section=footer" width="100%" />
+
 </div>
