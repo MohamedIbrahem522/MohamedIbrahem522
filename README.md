@@ -8,8 +8,9 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nodejs,nextjs,nestjs,tailwind,py,mysql,docker,git,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nodejs,nextjs,nestjs,tailwind,py,mysql,git,postman" />
 </p>
+
 ---
 
 </div>
