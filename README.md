@@ -5,8 +5,7 @@
 # <samp>MOHAMED IBRAHEM</samp>
 ### `MERN Stack Developer | Node.js . React 👨‍🏫 `
 
----
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px" />
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,mongodb,ts,docker,tailwind,py,mysql,git,postman" />
 
 ---
@@ -39,8 +38,6 @@
 * 🛍️ **E-Commerce Platform:** Node.js, MongoDB, and MySQL backend.
 * 🎬 **MO Movie:** High-performance UI using Next.js.
 * 💻 **PC-Store:** Product management and Auth using React.js.
-
----
 
 ---
 
