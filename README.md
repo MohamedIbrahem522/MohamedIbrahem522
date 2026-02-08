@@ -44,31 +44,29 @@
 
 ---
 
+---
+
 <div align="center">
 
-### 💡 Software Engineering Insights
+### 🕹️ Git Activity Snake
+<img src="https://github-raw-mirror.vercel.app/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+
+<br />
+
+### 🔗 Let's Connect
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedIbrahem522&show_icons=true&theme=transparent&hide_border=true&title_color=007acc&text_color=808080&icon_color=007acc" width="450" />
+<a href="https://www.linkedin.com/in/mohamed-ibrahem-63446322a">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" height="25" />
+</a> 
+<a href="mailto:moibrahem522@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" height="25" />
+</a>
 </p>
 
-<br />
-
-### 🤝 Connect & Collaborate
-<a href="https://www.linkedin.com/in/mohamed-ibrahem-63446322a">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:moibrahem522@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br />
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=007acc&height=30&section=footer&fontSize=20&text=Innovating%20with%20Code%20•%20MERN%20Stack" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px" />
 
 <br />
 
-<sub>Profile views: ![Views](https://komarev.com/ghpvc/?username=MohamedIbrahem522&color=007acc&style=flat-square)</sub>
+![Views](https://komarev.com/ghpvc/?username=MohamedIbrahem522&label=VISITORS&color=007acc&style=plastic)
 
 </div>
