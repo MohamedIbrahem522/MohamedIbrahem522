@@ -42,22 +42,24 @@
 
 ---
 
+---
+
 <div align="center">
 
-### ⚡ Quick Bytes
-![](https://img.shields.io/badge/Main_Stack-MERN-blue?style=flat-square) 
-![](https://img.shields.io/badge/Focus-Scalability-green?style=flat-square)
-![](https://img.shields.io/badge/Status-Open_to_Projects-orange?style=flat-square)
+### 💡 Software Engineering Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedIbrahem522&show_icons=true&theme=transparent&hide_border=true&title_color=007acc&text_color=808080&icon_color=007acc" width="450" />
+</p>
 
 <br />
 
-### 🔗 Let's Connect & Build Something Great
+### 🤝 Connect & Collaborate
 <a href="https://www.linkedin.com/in/mohamed-ibrahem-63446322a">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:moibrahem522@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br />
