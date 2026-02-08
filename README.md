@@ -42,19 +42,6 @@
 
 ---
 
-### 🌐 Digital Presence
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-ibrahem-63446322a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:moibrahem522@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
 <div align="center">
 
 ### ⚡ Quick Bytes
@@ -76,10 +63,10 @@
 <br />
 <br />
 
-![Views](https://komarev.com/ghpvc/?username=MohamedIbrahem522&label=PROFILE%20VIEWS&color=007acc&style=flat)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=007acc&height=30&section=footer&fontSize=20&text=Innovating%20with%20Code%20•%20MERN%20Stack" width="100%" />
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=60&section=footer" width="100%" />
+<sub>Profile views: ![Views](https://komarev.com/ghpvc/?username=MohamedIbrahem522&color=007acc&style=flat-square)</sub>
 
 </div>
