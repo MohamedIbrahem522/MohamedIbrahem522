@@ -88,10 +88,18 @@ I am currently open to <b>Full-Stack (MERN)</b> opportunities and interesting co
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="1px" />
   
-  <p>
-    <a href="https://my-portfolio-gamma-five-35.vercel.app/"><b>Live Portfolio</b></a> • 
-    <a href="https://drive.google.com/file/d/13ua2uVDibvj7dSWUQ9HuzuNSNkxSG6Ve/view?usp=sharing"><b>Technical Resume</b></a> • 
-    <a href="https://github.com/MohamedIbrahem522"><b>Source Code</b></a>
+  <p align="center">
+    <a href="https://my-portfolio-gamma-five-35.vercel.app/">
+      <b>🌐 Live Portfolio</b>
+    </a> 
+    &nbsp;&nbsp; • &nbsp;&nbsp;
+    <a href="https://drive.google.com/file/d/13ua2uVDibvj7dSWUQ9HuzuNSNkxSG6Ve/view?usp=sharing">
+      <b>📄 Technical Resume</b>
+    </a> 
+    &nbsp;&nbsp; • &nbsp;&nbsp;
+    <a href="https://github.com/MohamedIbrahem522">
+      <b>💻 Source Code</b>
+    </a>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=MohamedIbrahem522&label=VISITOR%20COUNT&color=0e75b6&style=flat-square" />
