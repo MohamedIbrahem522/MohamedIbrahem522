@@ -40,7 +40,7 @@ I am a **Full-Stack Developer** with a solid foundation in **Computer Science**,
 | **Frontend** | `React.js` `Next.js` `Redux Toolkit` `Tailwind CSS` `TypeScript` |
 | **Backend** | `Node.js` `Express.js` `RESTful APIs` `Socket.io` `JWT` |
 | **Database** | `MongoDB (Mongoose)` `MySQL` `PostgreSQL` |
-| **DevOps/Tools** | `Git` `Docker` `Postman` `GitHub Actions` `Vercel` |
+| **DevOps/Tools** | `Git` `Docker` `Postman` `Vercel` `Netlify` |
 
 ---
 
@@ -55,14 +55,11 @@ I am a **Full-Stack Developer** with a solid foundation in **Computer Science**,
 
 ---
 
-## 🐍 Contribution Ecosystem
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedIbrahem522/MohamedIbrahem522/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamedIbrahem522/MohamedIbrahem522/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MohamedIbrahem522/MohamedIbrahem522/output/github-contribution-grid-snake.svg">
-</picture>
-
-*(This graph is automatically updated via GitHub Actions)*
+## 🏆 GitHub Specializations
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedIbrahem522&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedIbrahem522&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
+</p>
 
 ---
 
