@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="100" />
   <h1><samp>MOHAMED IBRAHEM</samp></h1>
-  <p><b>Software Engineer | Full-Stack Developer | AI Enthusiast</b></p>
+  <p><b>Full-Stack Developer (MERN Stack) | Software Engineer | AI Enthusiast</b></p>
   
   <p>
     <a href="https://www.linkedin.com/in/mohamed-ibrahem-63446322a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -15,7 +15,7 @@
 ## 🌌 Overview
 > "Crafting digital experiences where logic meets aesthetics."
 
-I’m a **Full-Stack Developer** focused on the **MERN Stack**. I specialize in building high-performance applications that are scalable, secure, and user-centric. With a background in Computer Science and a passion for AI, I bridge the gap between complex backend logic and modern frontend design.
+I’m a **Full-Stack Developer** specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js). I focus on building high-performance applications that are scalable, secure, and user-centric. With a solid background in Computer Science and expertise in AI integration, I bridge the gap between complex backend logic and modern frontend design.
 
 ---
 
@@ -65,10 +65,37 @@ I’m a **Full-Stack Developer** focused on the **MERN Stack**. I specialize in 
 
 ---
 
+## 📬 Get In Touch
+
+<p align="left">
+I am currently open to <b>Full-Stack (MERN)</b> opportunities and interesting collaborations. My inbox is always open for technical discussions or potential projects.
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohamed-ibrahem-63446322a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a> 
+  <a href="mailto:moibrahem522@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a> 
+  <a href="https://wa.me/201228989799">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+<br />
+
 <div align="center">
-  <h3>Let's build the future together.</h3>
-  <a href="https://my-portfolio-gamma-five-35.vercel.app/"><b>Portfolio</b></a> • 
-  <a href="https://drive.google.com/file/d/13ua2uVDibvj7dSWUQ9HuzuNSNkxSG6Ve/view?usp=sharing"><b>Resume</b></a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=MohamedIbrahem522&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="1px" />
+  
+  <p>
+    <a href="https://my-portfolio-gamma-five-35.vercel.app/"><b>Live Portfolio</b></a> • 
+    <a href="https://drive.google.com/file/d/13ua2uVDibvj7dSWUQ9HuzuNSNkxSG6Ve/view?usp=sharing"><b>Technical Resume</b></a> • 
+    <a href="https://github.com/MohamedIbrahem522"><b>Source Code</b></a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=MohamedIbrahem522&label=VISITOR%20COUNT&color=0e75b6&style=flat-square" />
+  
+  <br />
+  <sub>Designed with precision by <b>Mohamed Ibrahem</b> &copy; 2026</sub>
 </div>
