@@ -5,7 +5,7 @@
 # <samp>MOHAMED IBRAHEM</samp>
 
 ### **Software Engineer | Full-Stack Developer (MERN)**
-**Specialized in building scalable, high-performance web applications and AI-integrated systems.**
+**Architecting Scalable Web Ecosystems & AI-Integrated Solutions**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-ibrahem-63446322a">
@@ -20,14 +20,16 @@
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px" />
+
+### **"Transforming complex requirements into elegant, scalable code."**
 </div>
 
 ## 🧑‍💻 Professional Summary
-I am a **Full-Stack Developer** with a solid foundation in **Computer Science**, specializing in the **MERN Stack**. My expertise lies in architecting scalable backends with **Node.js** and crafting seamless user experiences with **React.js**. 
+I am a **Full-Stack Developer** with a solid foundation in **Computer Science**, specializing in the **MERN Stack**. My expertise lies in architecting scalable backends with **Node.js** and crafting seamless user experiences with **React.js**.
 
 - 🚀 **Proven Leadership:** Led technical workshops as a Node.js Instructor at **GDSC**.
 - 🧠 **AI Integration:** Developed an **A+** rated graduation project using **YOLOv8** for real-time object detection.
-- ⚡ **Performance Focused:** Committed to writing clean, maintainable code and optimizing web performance.
+- ⚡ **Engineering Mindset:** Prioritizing **Clean Code**, **Optimization**, and **System Scalability**.
 
 ---
 
@@ -35,30 +37,25 @@ I am a **Full-Stack Developer** with a solid foundation in **Computer Science**,
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Frontend** | `React.js`, `Next.js`, `Redux Toolkit`, `Tailwind CSS`, `JavaScript (ES6+)` |
-| **Backend** | `Node.js`, `Express.js`, `RESTful APIs`, `Socket.io` |
-| **Database** | `MongoDB (Mongoose)`, `MySQL`, `PostgreSQL` |
-| **DevOps/Tools** | `Git`, `GitHub`, `Postman`, `Docker (Basics)`, `Vercel/Netlify` |
+| **Frontend** | `React.js` `Next.js` `Redux Toolkit` `Tailwind CSS` `TypeScript` |
+| **Backend** | `Node.js` `Express.js` `RESTful APIs` `Socket.io` `JWT` |
+| **Database** | `MongoDB (Mongoose)` `MySQL` `PostgreSQL` |
+| **DevOps/Tools** | `Git` `Docker` `Postman` `GitHub Actions` `Vercel` |
 
 ---
 
-## 🚀 Impact Projects
+## 🚀 Key Impact Projects
 
-### 🛒 [MERN E-Commerce Ecosystem](https://github.com/MohamedIbrahem522)
-*Full-featured platform with Redux state management, JWT authentication, and Stripe integration.*
-- **Key Tech:** React, Node.js, MongoDB, Tailwind.
-
-### 🧠 [YOLOv8 AI Detection System](https://github.com/MohamedIbrahem522)
-*Real-time object detection system achieving high precision for industrial use cases.*
-- **Key Tech:** Python, YOLOv8, Computer Vision.
-
-### 🎬 [MO Movie Portal](https://github.com/MohamedIbrahem522)
-*High-performance media discovery app utilizing Next.js for SSR and optimized SEO.*
-- **Key Tech:** Next.js, TMDB API, Framer Motion.
+| Project | Key Features | Tech Stack |
+| :--- | :--- | :--- |
+| **[Inventory ERP System](https://github.com/MohamedIbrahem522)** | Automated invoicing & real-time stock tracking. | `Node.js` `React` `PostgreSQL` |
+| **[E-Commerce Ecosystem](https://github.com/MohamedIbrahem522)** | Secure checkout (Stripe) & Role-based Auth. | `MERN` `Redux` `JWT` |
+| **[AI Vision System](https://github.com/MohamedIbrahem522)** | High-precision object tracking (YOLOv8). | `Python` `OpenCV` `Flask` |
+| **[MO Movie Portal](https://github.com/MohamedIbrahem522)** | Optimized SEO & Server-Side Rendering (SSR). | `Next.js` `Tailwind` `API` |
 
 ---
 
-## 🐍 My Contribution Streak
+## 🐍 Contribution Ecosystem
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedIbrahem522/MohamedIbrahem522/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamedIbrahem522/MohamedIbrahem522/output/github-contribution-grid-snake.svg">
@@ -70,7 +67,13 @@ I am a **Full-Stack Developer** with a solid foundation in **Computer Science**,
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohamedIbrahem522&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" />
-  <br>
-  <sub>Built with ❤️ by Mohamed Ibrahem. &copy; 2026</sub>
+
+### **Let's build the future together.**
+[**View My Portfolio**](https://my-portfolio-gamma-five-35.vercel.app/) • [**Download Resume**](https://drive.google.com/file/d/13ua2uVDibvj7dSWUQ9HuzuNSNkxSG6Ve/view?usp=sharing)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=MohamedIbrahem522&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" />
+<br>
+<sub>**Focused on building the future of web tech.** &copy; 2026</sub>
 </div>
