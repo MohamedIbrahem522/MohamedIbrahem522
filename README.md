@@ -58,11 +58,14 @@ I am a **Full-Stack Developer** with a solid foundation in **Computer Science**,
 
 ---
 
-## 📈 GitHub Ecosystem
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedIbrahem522&show_icons=true&theme=tokyonight&count_private=true" alt="Mohamed's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedIbrahem522&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+## 🐍 My Contribution Streak
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedIbrahem522/MohamedIbrahem522/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamedIbrahem522/MohamedIbrahem522/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MohamedIbrahem522/MohamedIbrahem522/output/github-contribution-grid-snake.svg">
+</picture>
+
+*(This graph is automatically updated via GitHub Actions)*
 
 ---
 
