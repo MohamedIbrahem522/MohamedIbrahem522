@@ -1,74 +1,74 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="100" />
+  <h1><samp>MOHAMED IBRAHEM</samp></h1>
+  <p><b>Software Engineer | Full-Stack Developer | AI Enthusiast</b></p>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/mohamed-ibrahem-63446322a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:moibrahem522@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://wa.me/201228989799"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  </p>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="100" />
-
-# <samp>MOHAMED IBRAHEM</samp>
-### **Software Engineer | Full-Stack Developer**
-**Specializing in Scalable Web Ecosystems & AI Integration**
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-ibrahem-63446322a"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:moibrahem522@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
-  <a href="https://wa.me/201228989799"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white" /></a>
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="1px" />
-
-*"Transforming complex requirements into elegant, production-ready code."*
-
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px" />
 </div>
 
-## 💡 Philosophy
-I bridge the gap between **robust backend architecture** and **intuitive frontend experiences**. My approach focuses on writing clean, maintainable code that solves real-world business challenges.
+## 🌌 Overview
+> "Crafting digital experiences where logic meets aesthetics."
+
+I’m a **Full-Stack Developer** focused on the **MERN Stack**. I specialize in building high-performance applications that are scalable, secure, and user-centric. With a background in Computer Science and a passion for AI, I bridge the gap between complex backend logic and modern frontend design.
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Technology Stack
 
-#### **Frontend Engineering**
-`React.js` • `Next.js` • `Redux Toolkit` • `Tailwind CSS` • `TypeScript`
-
-#### **Backend & Infrastructure**
-`Node.js` • `Express.js` • `RESTful APIs` • `Socket.io` • `JWT Auth`
-
-#### **Data Management**
-`MongoDB` • `PostgreSQL` • `MySQL` • `Redis`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,ts,tailwind,redux,git,postman,py,docker" />
+</p>
 
 ---
 
-## 🚀 Selected Deployments
+## 🏗️ Selected Architecture
 
-### **01. Inventory & Billing ERP**
-*Strategic resource planning system for retail management.*
-> **Tech:** Node.js, React, PostgreSQL.
-
-### **02. MERN E-Commerce Ecosystem**
-*Full-scale marketplace with Stripe integration & Admin Control.*
-> **Tech:** MongoDB, Express, React, Node.js.
-
-### **03. YOLOv8 AI Vision System**
-*Real-time object detection and industrial automation logic.*
-> **Tech:** Python, Computer Vision, Flask.
-
-### **04. MO Movie Portal**
-*High-performance media discovery focusing on SEO & SSR.*
-> **Tech:** Next.js, Framer Motion, TMDB API.
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01. Inventory & Billing ERP</h3>
+      <p>Strategic ERP for manufacturing and retail management with real-time tracking.</p>
+      <code>Node.js</code> <code>React</code> <code>PostgreSQL</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02. MERN E-Commerce</h3>
+      <p>Full-scale marketplace with secure Stripe integration and advanced Admin panel.</p>
+      <code>MongoDB</code> <code>Express</code> <code>React</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03. YOLOv8 AI Vision</h3>
+      <p>A+ rated graduation project focusing on real-time object detection and automation.</p>
+      <code>Python</code> <code>YOLOv8</code> <code>OpenCV</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04. MO Movie Portal</h3>
+      <p>Media platform optimized for SEO with Server-Side Rendering and sleek UI.</p>
+      <code>Next.js</code> <code>Tailwind</code> <code>Framer Motion</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎓 Background
-- **B.Sc. in Computer Science** | HTI (2020 - 2024)
-- **Former Node.js Instructor** | GDSC Damanhour
-- **Engineering Intern** | ITI Egypt
+## 🎓 Career Path
+* **Instructor** @ GDSC Damanhour (Node.js)
+* **Engineer Intern** @ ITI Egypt (Web Development)
+* **B.Sc. in Computer Science** @ HTI (Class of 2024)
 
 ---
 
 <div align="center">
-
-### **Let's build something extraordinary.**
-[**PORTFOLIO**](https://my-portfolio-gamma-five-35.vercel.app/) • [**RESUME**](https://drive.google.com/file/d/13ua2uVDibvj7dSWUQ9HuzuNSNkxSG6Ve/view?usp=sharing)
-
-<br>
-
-<sub>Zagazig, Egypt | © 2026 Mohamed Ibrahem</sub>
+  <h3>Let's build the future together.</h3>
+  <a href="https://my-portfolio-gamma-five-35.vercel.app/"><b>Portfolio</b></a> • 
+  <a href="https://drive.google.com/file/d/13ua2uVDibvj7dSWUQ9HuzuNSNkxSG6Ve/view?usp=sharing"><b>Resume</b></a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=MohamedIbrahem522&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" />
 </div>
