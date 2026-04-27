@@ -3,70 +3,71 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="100" />
 
 # <samp>MOHAMED IBRAHEM</samp>
-### `MERN Stack Developer | Node.js . React 👨‍🏫 `
+
+### MERN Stack Developer | React · Node.js · MongoDB | Building Scalable Web Applications
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nodejs,nextjs,nestjs,tailwind,py,mysql,git,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,postman,python" />
 </p>
-
----
 
 </div>
 
-### 🖋️ Professional Brief
-* 👨‍🏫 **Teaching:** Former **Node.js Instructor** & Core Team Member at **GDSC** Damanhour.
-* 🤖 **AI Project:** Developed a real-time Object Detection app using **YOLOv8** (Grade: **A+**).
-* 💻 **Development:** Specialized in building scalable web apps with **React.js** and **Node.js**.
-* 🎓 **Academic:** Bachelor of **Computer Science** from **HTI** (Class of 2024).
+---
+
+## 🧑‍💻 Professional Summary
+- 👨‍🏫 Former Node.js Instructor & Core Team Member at GDSC Damanhour  
+- 🤖 Built AI Object Detection system using YOLOv8 (A+ Graduation Project)  
+- 💻 Full-Stack Developer focused on React.js & Node.js ecosystem  
+- 🎓 Computer Science Graduate (HTI – 2024)
 
 ---
 
-### 📜 Professional Training
-* 🎖️ **Back-End Diploma:** Server-side & API architecture from **Route Academy**.
-* 🎖️ **Front-End Diploma:** Modern UI development from **Route Academy**.
-* 🏢 **ITI Internship:** Web optimization and performance training at **ITI, Egypt**.
+## 🎓 Education & Training
+- 🎖 Back-End Development Diploma – Route Academy  
+- 🎖 Front-End Development Diploma – Route Academy  
+- 🏢 ITI Internship – Web Development & Optimization (Egypt)
 
 ---
 
-### 🛠️ Technical & Soft Skills
-* 🔧 **IT Operations:** Windows Configuration, Hardware Maintenance, and Troubleshooting.
-* 🌐 **Networking:** Basic LAN, IP addressing, and DNS configuration.
-* 🤝 **Professionalism:** Problem-solving, Team Collaboration, and Effective Communication.
+## 🧠 Technical Skills
+- ⚛️ Frontend: React.js, Next.js, Tailwind CSS  
+- 🟢 Backend: Node.js, Express.js, REST APIs  
+- 🍃 Database: MongoDB, MySQL  
+- 🔐 Auth: JWT, Role-based systems  
+- 🔧 Tools: Git, GitHub, Postman  
 
 ---
 
-### 🏆 Featured Projects
-* 🛍️ **E-Commerce Platform:** Node.js, MongoDB, and MySQL backend.
-* 🎬 **MO Movie:** High-performance UI using Next.js.
-* 💻 **PC-Store:** Product management and Auth using React.js.
+## 🚀 Featured Projects
+- 🛍️ E-Commerce Platform (MERN Stack Full System)  
+- 🎬 MO Movie App (Next.js + API Integration)  
+- 💻 PC Store (React.js Product System)  
+- 🧠 YOLOv8 AI Object Detection System  
 
 ---
 
+## 📫 Contact
 <div align="center">
 
-### ⚡ Quick Bytes
-![](https://img.shields.io/badge/Main_Stack-MERN-blue?style=flat-square) 
-![](https://img.shields.io/badge/Focus-Scalability-green?style=flat-square)
-![](https://img.shields.io/badge/Status-Open_to_Projects-orange?style=flat-square)
-
-<br />
-
-### 🔗 Let's Connect & Build Something Great
 <a href="https://www.linkedin.com/in/mohamed-ibrahem-63446322a">
   <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
 </a>
-&nbsp;&nbsp;
+
 <a href="mailto:moibrahem522@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="40" />
 </a>
 
-<br />
-<br />
-
-![Views](https://komarev.com/ghpvc/?username=MohamedIbrahem522&label=PROFILE%20VIEWS&color=007acc&style=flat)
-
-<br />
+<a href="https://wa.me/201228989799">
+  <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+</a>
 
 </div>
+
+---
+
+## 📊 Profile Stats
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohamedIbrahem522&label=PROFILE%20VIEWS&color=007acc&style=flat" />
+</p>
