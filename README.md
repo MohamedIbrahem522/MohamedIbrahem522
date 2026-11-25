@@ -1,109 +1,33 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="100" />
-  <h1><samp>MOHAMED IBRAHEM</samp></h1>
-  <p><b>Full-Stack Developer (MERN Stack) | Software Engineer | AI Enthusiast</b></p>
-  
-  <p>
-    <a href="https://www.linkedin.com/in/mohamed-ibrahem-63446322a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:moibrahem522@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://wa.me/201228989799"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  </p>
+# Hi, I'm Mohamed Ibrahem
 
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px" />
-</div>
+**Full-Stack Developer (MERN) | Node.js, React, MongoDB**
+Computer Science graduate (Higher Technological Institute, 2024). Based in Egypt, open to full-stack and backend roles, on-site in Cairo, hybrid or remote.
 
-## 🌌 Overview
-> "Crafting digital experiences where logic meets aesthetics."
+[LinkedIn](https://linkedin.com/in/mohamed-ibrahem-eg) · [Portfolio](https://my-portfolio-gamma-five-35.vercel.app/) · [Email](mailto:moibrahem522@gmail.com)
 
-I’m a **Full-Stack Developer** specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js). I focus on building high-performance applications that are scalable, secure, and user-centric. With a solid background in Computer Science and expertise in AI integration, I bridge the gap between complex backend logic and modern frontend design.
+## What I work with
 
----
+- **Main stack:** JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB
+- **Also:** MySQL, Tailwind CSS, Redux, Git, Postman, REST APIs, JWT auth, role-based access
+- **Basics:** Python (YOLOv8, OpenCV) from my graduation project
 
-## 🛠️ Technology Stack
+## Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,ts,tailwind,redux,git,postman,py,docker" />
-</p>
+| Project | What it is | Stack |
+|---|---|---|
+| [Shop From Dubai](https://github.com/MohamedIbrahem522/Shop-From-Dubai-Backend) ([frontend](https://github.com/MohamedIbrahem522/Shop-From-Dubai-Frontend)) | Live Arabic (RTL) store I built for a freelance client. Admin dashboard, products, categories, reviews. [Live site](https://shop-from-dubai-frontend.pages.dev/) | Node.js, Express, MongoDB, Cloudinary, HTML/CSS/JS |
+| [BoroBazar](https://github.com/MohamedIbrahem522/BoroBazar-Ecommerce) | E-commerce backend API | Node.js, Express, MongoDB |
+| [Midspace Health Connect](https://github.com/MohamedIbrahem522/midspace-health-connect) | Platform for doctors: profiles, job listings and messaging | React, TypeScript, Vite, Tailwind |
+| [Real-time object detection](https://github.com/MohamedIbrahem522/GradProjectYOLOv8-ArEn) | Graduation project (A+), YOLOv8 detection with a web interface | Python, YOLOv8, OpenCV |
+| [MO Movie](https://github.com/MohamedIbrahem522/MoMovie) | Movie discovery app with search and trending | Next.js |
 
----
+## Background
 
-## 🏗️ Selected Architecture
+- Freelance full-stack developer since Dec 2025
+- Node.js instructor and core team member, Google Developer Student Clubs, Damanhour University (2023-2024), taught 50+ students
+- Route Front-End and Back-End diplomas, Meta Front-End certificate, IBM Web Developer certificate
+- Currently in technical support at Dr.Olivee Co.
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01. Inventory & Billing ERP</h3>
-      <p>Strategic ERP for manufacturing and retail management with real-time tracking.</p>
-      <code>Node.js</code> <code>React</code> <code>PostgreSQL</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02. MERN E-Commerce</h3>
-      <p>Full-scale marketplace with secure Stripe integration and advanced Admin panel.</p>
-      <code>MongoDB</code> <code>Express</code> <code>React</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>03. YOLOv8 AI Vision</h3>
-      <p>A+ rated graduation project focusing on real-time object detection and automation.</p>
-      <code>Python</code> <code>YOLOv8</code> <code>OpenCV</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>04. MO Movie Portal</h3>
-      <p>Media platform optimized for SEO with Server-Side Rendering and sleek UI.</p>
-      <code>Next.js</code> <code>Tailwind</code> <code>Framer Motion</code>
-    </td>
-  </tr>
-</table>
+## Contact
 
----
-
-## 🎓 Career Path
-* **Instructor** @ GDSC Damanhour (Node.js)
-* **Engineer Intern** @ ITI Egypt (Web Development)
-* **B.Sc. in Computer Science** @ HTI (Class of 2024)
-
----
-
-## 📬 Get In Touch
-
-<p align="left">
-I am currently open to <b>Full-Stack (MERN)</b> opportunities and interesting collaborations. My inbox is always open for technical discussions or potential projects.
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-ibrahem-63446322a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a> 
-  <a href="mailto:moibrahem522@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a> 
-  <a href="https://wa.me/201228989799">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="1px" />
-  
-  <p align="center">
-    <a href="https://my-portfolio-gamma-five-35.vercel.app/">
-      <b>🌐 Live Portfolio</b>
-    </a> 
-    &nbsp;&nbsp; • &nbsp;&nbsp;
-    <a href="https://drive.google.com/file/d/13ua2uVDibvj7dSWUQ9HuzuNSNkxSG6Ve/view?usp=sharing">
-      <b>📄 Technical Resume</b>
-    </a> 
-    &nbsp;&nbsp; • &nbsp;&nbsp;
-    <a href="https://github.com/MohamedIbrahem522">
-      <b>💻 Source Code</b>
-    </a>
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=MohamedIbrahem522&label=VISITOR%20COUNT&color=0e75b6&style=flat-square" />
-  
-  <br />
-  <sub>Designed with precision by <b>Mohamed Ibrahem</b> &copy; 2026</sub>
-</div>
+Best way to reach me is email or LinkedIn.
