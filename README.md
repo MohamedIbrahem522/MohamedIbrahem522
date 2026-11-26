@@ -76,7 +76,6 @@ Live Arabic (RTL) e-commerce store built for a freelance client: admin dashboard
 
 - Node.js instructor and core team member, Google Developer Student Clubs, Damanhour University (2023-2024), taught 50+ students
 - Route Front-End and Back-End diplomas, Meta Front-End certificate, IBM Web Developer certificate
-- Currently in technical support at Dr.Olivee Co.
 
 ---
 
