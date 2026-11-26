@@ -29,9 +29,9 @@ I build web applications end to end, from REST APIs and admin dashboards to live
 
 </div>
 
-**Core:** JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB
-**Also:** MySQL, Tailwind CSS, Redux, REST APIs, JWT auth, role-based access, Git, Postman
-**Basics:** Python (YOLOv8, OpenCV) from my graduation project
+- **Core:** JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB
+- **Also:** MySQL, Tailwind CSS, Redux, REST APIs, JWT auth, role-based access, Git, Postman
+- **Basics:** Python (YOLOv8, OpenCV) from my graduation project
 
 ## Featured Projects
 
