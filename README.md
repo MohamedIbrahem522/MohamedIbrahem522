@@ -62,16 +62,6 @@ Live Arabic (RTL) e-commerce store built for a freelance client: admin dashboard
 
 </div>
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MohamedIbrahem522&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=MohamedIbrahem522&theme=github-dark&hide_border=true" alt="GitHub streak"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedIbrahem522&layout=compact&theme=github_dark&hide_border=true" alt="Top languages"/>
-
-</div>
-
 ## Background
 
 - Node.js instructor and core team member, Google Developer Student Clubs, Damanhour University (2023-2024), taught 50+ students
